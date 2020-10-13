@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+    <Button
+        android:id="@+id/Btn1"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@color/colorBtn1"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Classic Blue \n #0F4C81 \n 2020"
+            android:textSize="15dp"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+
+            />
+
+
+    <Button
+        android:id="@+id/Btn2"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@color/colorBtn2"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Living Coral \n #FF6F61 \n 2019"
+            android:textSize="15dp"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+
+            />
+
+    <Button
+        android:id="@+id/Btn3"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@color/colorBtn3"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Ultra Violet \n #5F4B8B \n 2018"
+            android:textSize="15dp"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+
+            />
+
+    <Button
+        android:id="@+id/Btn4"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@color/colorBtn4"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Greenery \n #88B04B \n 2017"
+            android:textSize="15dp"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+
+            />
+
+    <Button
+        android:id="@+id/Btn5"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@color/colorBtn5"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Marsala \n #FF6F61 \n 2015"
+            android:textSize="15dp"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+
+            />
+
+    <Button
+        android:id="@+id/Btn6"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@color/colorBtn6"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Radiant Orchid \n #B163A3 \n 2014"
+            android:textSize="15dp"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+
+            />
+    </LinearLayout>
+</ScrollView>
+
+
+
